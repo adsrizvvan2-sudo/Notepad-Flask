@@ -1,0 +1,15 @@
+
+# Secrets and passwords
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.venv/
+
+# Git and testing
+.pytest_cache/
+
+# IDE settings
+.vscode/
+
